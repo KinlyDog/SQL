@@ -1,0 +1,16 @@
+5.4.1
+SELECT * FROM Employees
+ORDER BY BirthDate DESC, Country;
+
+5.4.2
+SELECT * FROM Employees
+WHERE NOT Region IS NULL
+ORDER BY BirthDate DESC, Country;
+
+5.4.3
+SELECT AVG(UnitPrice) FROM [Order Details];
+SELECT MIN(UnitPrice) FROM [Order Details];
+SELECT MAX(UnitPrice) FROM [Order Details];
+
+5.4.4
+SELECT COUNT(DISTINCT City) FROM Customers;
