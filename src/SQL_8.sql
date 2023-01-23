@@ -12,5 +12,5 @@ WHERE Products.ProductID = [Order Details].[ProductID] AND [Order Details].[Unit
 SELECT Products.ProductName, [Order Details].[UnitPrice], Categories.CategoryName
 FROM Products, [Order Details], Categories
 WHERE Products.ProductID = [Order Details].[ProductID]
-    AND Categories.[CategoryID] = Products.[ProductID]
+    AND Categories.[CategoryID] = Products.[CategoryID]
     AND [Order Details].[UnitPrice] < 20;
