@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="669d9dc6-188b-4b06-96c7-2b602a86dc63" name="Changes" comment="Update ex. n10">
-      <change afterPath="$PROJECT_DIR$/src/SQL_11.sql" afterDir="false" />
+    <list default="true" id="669d9dc6-188b-4b06-96c7-2b602a86dc63" name="Changes" comment="Add ex. n11">
+      <change afterPath="$PROJECT_DIR$/src/SQL_12.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674649958195</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add ex. n11">
+      <created>1674660183221</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674660183221</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +172,7 @@
     <MESSAGE value="Add ex. n9" />
     <MESSAGE value="Add ex. n10" />
     <MESSAGE value="Update ex. n10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update ex. n10" />
+    <MESSAGE value="Add ex. n11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ex. n11" />
   </component>
 </project>
